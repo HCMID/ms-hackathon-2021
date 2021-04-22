@@ -22,7 +22,7 @@ Our text this year will be the *Aratus Latinus* from the manuscript St. Gallen S
 ### Summary of our schedule
 
 
-- Friday afternoon, Apr. 30:  drop-in to MID's regular Friday Zoom meeting for a tech checkup.  We can help you install or configure any software you need help with.
+- Friday afternoon, Apr. 30:  optionally drop in to MID's regular Friday Zoom meeting for a tech checkup.  We can help you install or configure any software you need help with.
 - Saturday  morning, May 1: walk-through of our new editing system with interactive notebooks to validate your editing!
 - Saturday afternoon, May 1: you'll work with one or more current MID students to edit a selection from our manuscript.
 
