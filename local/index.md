@@ -3,12 +3,20 @@ layout: page
 title:  HC MID Hackathon 2021
 ---
 
+<<<<<<< HEAD
 # HC MID Hackathon 2021
 
 <div>
 <div style="float-left;"><h2>Saturday, May 1, 2021</h2></div>
 <div style="float: right; margin: 10px; clear: right;">
 <img src ="https://hcmid.github.io/ms-hackathon-2021/imgs/p481-labelled-small.png" />
+=======
+
+<div>
+<div style="float-left;"><h1>HC MID Hackathon 2021</h1></div>
+<div style="float: right; margin: 10px; clear: right;">
+<img src ="imgs/p481-labelled-small.png" />
+>>>>>>> 5fea8c90b73b91f18a42c418fcc0003e9377d35b
 </div>
 </div>
 

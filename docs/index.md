@@ -6,15 +6,22 @@ title:  HC MID Hackathon 2021
 # HC MID Hackathon 2021
 
 <div>
+<<<<<<< HEAD
 <div style="float-left;"><h2>Saturday, May 1, 2021</h2></div>
 <div style="float: right; margin: 10px; clear: right;">
 <img src ="https://hcmid.github.io/ms-hackathon-2021/imgs/p481-labelled-small.png" />
+=======
+<div style="float-left;"><h2>Coming soon</h2></div>
+<div style="float: right; margin: 10px; clear: right;">
+<img src ="imgs/p481-labelled-small.png" />
+>>>>>>> 5fea8c90b73b91f18a42c418fcc0003e9377d35b
 </div>
 </div>
 
 
 
 
+<<<<<<< HEAD
 Welcome to home page for Holy Cross MID Hackathon 2021 - our first online hackathon event!
 
 Our text this year will be the *Aratus Latinus* from the manuscript St. Gallen Stiftsbibliothek 250.  You can find out more about our manuscript on the [e-codices website](https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0250).
@@ -37,3 +44,15 @@ You can participate in our hackathon in either of two roles:
 
 TBA:  full details of how to configure VS Basic
 
+=======
+This is the home page for Holy Cross MID Hackathon 2021 - our first online hackathon event!
+
+We will post initial information here on Monday, April 12, including:
+
+- schedule
+- background information about this year's manuscript
+- how to register
+
+
+Stay tuned!
+>>>>>>> 5fea8c90b73b91f18a42c418fcc0003e9377d35b
