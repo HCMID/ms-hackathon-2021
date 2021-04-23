@@ -2,3 +2,4 @@ local/.jekyll-cache/
 local/Gemfile.lock
 local/_site/
 local/imgs/*.xcf
+Manifest.toml
