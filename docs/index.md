@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  HC MID Hackathon 2021
+nav_order: 0
 ---
 
 # HC MID Hackathon 2021
