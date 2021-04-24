@@ -18,7 +18,7 @@ nav_order: 0
 
 Welcome to home page for Holy Cross MID Hackathon 2021 - our first online hackathon event!
 
-Our text this year will be the *Aratus Latinus* from the manuscript St. Gallen Stiftsbibliothek 250.  You can find out more about our manuscript on the [e-codices website](https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0250).
+Our text this year will be the *Aratus Latinus* from the manuscript St. Gallen Stiftsbibliothek 250.  You can find out more about our manuscript on the [e-codices website](https://www.e-codices.unifr.ch/en/searchresult/list/one/csg/0250), and can browse [citable images here](./browser/).
 
 ### Summary of our schedule
 
