@@ -1,22 +1,15 @@
 ---
 layout: page
 title:  HC MID Hackathon 2021
+nav_order: 0
 ---
 
-<<<<<<< HEAD
 # HC MID Hackathon 2021
 
 <div>
 <div style="float-left;"><h2>Saturday, May 1, 2021</h2></div>
 <div style="float: right; margin: 10px; clear: right;">
 <img src ="https://hcmid.github.io/ms-hackathon-2021/imgs/p481-labelled-small.png" />
-=======
-
-<div>
-<div style="float-left;"><h1>HC MID Hackathon 2021</h1></div>
-<div style="float: right; margin: 10px; clear: right;">
-<img src ="imgs/p481-labelled-small.png" />
->>>>>>> 5fea8c90b73b91f18a42c418fcc0003e9377d35b
 </div>
 </div>
 
@@ -30,7 +23,7 @@ Our text this year will be the *Aratus Latinus* from the manuscript St. Gallen S
 ### Summary of our schedule
 
 
-- Friday afternoon, Apr. 30:  drop-in to MID's regular Friday Zoom meeting for a tech checkup.  We can help you install or configure any software you need help with.
+- Friday afternoon, Apr. 30:  optionally drop in to MID's regular Friday Zoom meeting for a tech checkup.  We can help you install or configure any software you need help with.
 - Saturday  morning, May 1: walk-through of our new editing system with interactive notebooks to validate your editing!
 - Saturday afternoon, May 1: you'll work with one or more current MID students to edit a selection from our manuscript.
 

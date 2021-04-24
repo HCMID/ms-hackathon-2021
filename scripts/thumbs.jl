@@ -18,4 +18,25 @@ for n in 2:650
 end
 
 
-#linkedMarkdownImage(ict, img, service; ht=100, caption="folio 12 recto")
+function mdtable(urnlist, cols::Int64 = 5; hgt::Int64=100)
+    hdr = "| "
+    for col in 1:cols
+        hdr = hdr * " | "
+    end
+    hdr = hdr * "\n| "
+    for col in 1:cols
+        hdr = hdr * " --- | "
+    end
+    hdr = hdr * "\n"
+
+    for i in 1:length(urnlist)
+        img = urnlist[i]
+        md = linkedMarkdownImage(ict, img, service; ht=hgt, caption="Page $i")
+        if (mod(i, cols) == 0)
+            hdr = hdr * string("\n| ", md,  " | ")
+        else
+            hdr = hdr * string( md, " | ")
+        end
+    end
+    hdr
+end
