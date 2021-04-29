@@ -6,6 +6,9 @@ nav_order: 0
 
 # HC MID Hackathon 2021
 
+
+
+
 <div>
 <div style="float-left;"><h2>Saturday, May 1, 2021</h2></div>
 <div style="float: right; margin: 10px; clear: right;">
@@ -15,6 +18,8 @@ nav_order: 0
 
 
 
+> [**Zoom link**](
+https://holycross.zoom.us/j/93667384284?pwd=L1RRMG9IdVdLNTk5Q3IvKzlIQTlmUT09) (registered particiants will receive the passcode by email.)
 
 Welcome to home page for Holy Cross MID Hackathon 2021 - our first online hackathon event!
 
@@ -36,5 +41,5 @@ You can participate in our hackathon in either of two roles:
 2. *Hosts*: in addition to a web browser, hosts should install [Visual Studio Code](https://code.visualstudio.com/download), and the [Julia](https://julialang.org/downloads/) language. That's it!
 
 
-TBA:  full details of how to configure VS Basic
+- more detailed information on [configuring VS Code](./tech/).
 
