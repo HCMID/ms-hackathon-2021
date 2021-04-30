@@ -6,6 +6,11 @@ nav_order: 0
 
 # HC MID Hackathon 2021
 
+## Links for Saturday
+
+> - for all participants: [**Zoom link**](
+https://holycross.zoom.us/j/93667384284?pwd=L1RRMG9IdVdLNTk5Q3IvKzlIQTlmUT09) (registered particiants will receive the passcode by email.)
+> - for session hosts: [editors' repository](https://github.com/HCMID/hackathon2021-editions) you can clone for your work today
 
 
 
@@ -18,8 +23,6 @@ nav_order: 0
 
 
 
-> [**Zoom link**](
-https://holycross.zoom.us/j/93667384284?pwd=L1RRMG9IdVdLNTk5Q3IvKzlIQTlmUT09) (registered particiants will receive the passcode by email.)
 
 Welcome to home page for Holy Cross MID Hackathon 2021 - our first online hackathon event!
 
