@@ -4,6 +4,7 @@ title:  Technology
 nav_order: 4
 ---
 
+
 # Technical prerequisites and configuration
 
 
